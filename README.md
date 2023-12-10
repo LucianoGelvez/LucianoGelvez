@@ -26,7 +26,7 @@ In my repositories, you will find both Front-end and Back-end projects, as well 
 <h2 align="center">Get in Touch! 📬</h2>
 <Br>
 <p align="center">
-<a href="https://www.linkedin.com/in/LucianoGelvez" target="blank"><img align="center" src="https://img.shields.io/badge/Luciano Gelvez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:contact@lucianoGelvez.com" target="blank"><img align="center" src="https://img.shields.io/badge/contact@lucianoGelvez.com-D14836?style=for-the-badge&logo=gmail&logoColor=purple" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://lucianoGelvez.com" target="blank"><img align="center" src="https://img.shields.io/badge/porfolio-100000?style=for-the-badge" /></a>
+<a href="https://www.linkedin.com/in/LucianoGelvez" target="blank"><img align="center" src="https://img.shields.io/badge/Luciano Gelvez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:contact@lucianoGelvez.com" target="blank"><img align="center" src="https://img.shields.io/badge/contact@lucianoGelvez.com-D14836?style=for-the-badge&logo=gmail&logoColor=purple" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://lucianoGelvez.com" target="blank"><img align="center" src="https://img.shields.io/badge/website-100000?style=for-the-badge" /></a>
 
 </p>
 <img src="https://i.postimg.cc/28yVZ2mp/separador.png" width="100%">
