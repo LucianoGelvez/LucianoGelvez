@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Luciano Gelvez
 
-**Ingeniero de Datos en transición | Desarrollador Full Stack**
+**Data Engineer**
 
 ---
 
