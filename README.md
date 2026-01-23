@@ -1,82 +1,73 @@
-# 👋 ¡Hola! Soy Luciano Gelvez
+# 👋 Hi! I'm Luciano Gelvez
 
-**Data Engineer**
-
----
-
-## Sobre mí
-
-Soy desarrollador de software con sólida experiencia en **Python, SQL, Java, Bash y PySpark**, actualmente enfocado en el mundo de los datos. Me apasiona construir soluciones robustas para el procesamiento, análisis y visualización de datos, integrando buenas prácticas de ingeniería, automatización y cloud computing.
-
-Me considero autodidacta, curioso y siempre en constante aprendizaje: repaso y profundizo en áreas como modelado de datos, orquestación de pipelines, cloud computing y visualización, para mantenerme actualizado y aportar valor en cada proyecto.
+**Data Engineer | Backend & Cloud Specialist**
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## About Me
 
-- **Lenguajes:** Python, SQL, Java, JavaScript, Bash
-- **Bases de datos:** PostgreSQL, MySQL, MongoDB (NoSQL)
-- **Procesamiento de datos:** PySpark, Pandas, Numpy
-- **Orquestación y ETL:** Apache Airflow
-- **Cloud:** AWS (Cloud Practitioner)
-- **Visualización:** Power BI (básico)
-- **Otras:** Web Scraping, Git, Docker, metodologías ágiles (Scrum/Kanban)
-- **Aprendiendo:** Snowflake, mejores prácticas de DataOps
+**Data Engineer & Backend Developer.** I build scalable data pipelines and AI-driven architectures on AWS. Leveraging my software engineering background, I combine **Python, Spark, and SQL** with modern orchestration tools like **n8n** and **Redis** to deliver production-grade data solutions.
+
+I am a lifelong learner obsessed with efficiency. I continuously deepen my knowledge in data modeling, pipeline orchestration, and cloud infrastructure to ensure that every project I touch generates real business value.
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🛠️ Technologies & Tools
 
-- [**Spark Streaming con Twitter/X para análisis de hashtags**](https://github.com/LucianoGelvez/Spark-Streaming-with-Twitter-X-for-Hashtag-Analysis)  
-  Análisis en tiempo real de tendencias usando PySpark y APIs de Twitter.
+- **Languages:** Python, SQL, Java, JavaScript, Bash
+- **Big Data & Processing:** PySpark, Pandas, NumPy
+- **Orchestration & ETL:** Apache Airflow, n8n
+- **Databases:** PostgreSQL, MySQL, MongoDB (NoSQL), Redis (Caching/Vector)
+- **Cloud & DevOps:** AWS (Cloud Practitioner), Docker, Git, CI/CD
+- **AI & LLMs:** RAG Architectures, Vector Stores, OpenAI API Integration
+- **Visualization:** Power BI, Looker Studio
+- **Methodologies:** Agile (Scrum/Kanban), DataOps
+
+---
+
+## 🚀 Featured Projects
+
+- [**Spark Streaming with Twitter/X for Hashtag Analysis**](https://github.com/LucianoGelvez/Spark-Streaming-with-Twitter-X-for-Hashtag-Analysis)  
+  Real-time trend analysis using PySpark and Twitter APIs via socket streaming.
 
 - [**ALS Recommendation Model with PySpark**](https://github.com/LucianoGelvez/ALS-Recommendation-Model-with-PySpark)  
-  Sistema de recomendación distribuido con machine learning.
+  Distributed recommendation system built with Spark MLlib to predict user preferences.
 
-- [**Web Scraping del dólar en Argentina**](https://github.com/LucianoGelvez/Dollar-in-Argentina-web-scraping-with-Python)  
-  Extracción y análisis de datos económicos en tiempo real.
-
-- [**Weather Forecast with SMS Notifications**](https://github.com/LucianoGelvez/Weather-Forecast-with-SMS-Notifications)  
-  Automatización de alertas meteorológicas usando APIs y mensajería.
-
-Puedes ver más proyectos en la [sección de repositorios](https://github.com/LucianoGelvez?tab=repositories).
+- [**AI-Powered Ecommerce Data Pipeline**](LINK_A_TU_NUEVO_REPO)  
+  *(Work in Progress)* Architecture combining **n8n, Redis, and LLMs** to automate data ingestion and provide context-aware AI responses for ecommerce.
 
 ---
 
-## 📚 Formación
+## 📚 Education
 
-- **Professional Developer** – Digital House  
-- **Técnico en Sistemas de Control Industrial** – Universidad de Cuyo
+- **Certified Tech Developer** – Digital House (Mercado Libre & Globant)
+- **Technician in Industrial Control Systems** – Universidad Nacional de Cuyo
 
 ---
 
-## 📜 Certificaciones y Cursos
+## 📜 Certifications
 
 - **AWS Certified Cloud Practitioner**
-- **Fundamentos de la ingeniería de datos**
-- **The Complete Python Bootcamp From Zero to Hero in Python**
+- **IBM Data Engineering Professional Certificate** (Coursera)
 - **Spark and Python for Big Data with PySpark**
-- **Formación Java y Spring Boot G4 - ONE**
-- **SQL Server: Programación Avanzada 2024**
-
+- **SQL Server: Advanced Programming**
 
 ---
 
-## 📬 Contacto
+## 📬 Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/LucianoGelvez" target="_blank">
+  <a href="https://www.linkedin.com/in/lucianogelvez" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:contact@lucianoGelvez.com" target="_blank">
+  <a href="mailto:contacto@lucianogelvez.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://lucianoGelvez.com" target="_blank">
+  <a href="https://lucianogelvez.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-100000?style=for-the-badge"/>
   </a>
 </p>
 
 ---
 
-Gracias por visitar mi perfil.  
-Estoy abierto a nuevas oportunidades y colaboraciones en el mundo de los datos.
+<p align="center">Thanks for visiting my profile. I am open to new opportunities in Data Engineering and Cloud Architecture.</p>
